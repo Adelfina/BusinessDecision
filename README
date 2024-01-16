@@ -1,0 +1,43 @@
+Project Overview
+This project involves performing detailed statistical analyses on two distinct business cases: a Sales Team Competition and Breakfast Cereal Focus Groups. The objective is to provide insights and make data-driven decisions using statistical methods.
+
+Sales Team Competition
+In this analysis, we compare the performance of two sales teams based on their sales figures. The aim is to determine if there is a statistically significant difference in the average sales performance of the two teams.
+
+Breakfast Cereal Focus Groups
+This part of the project focuses on evaluating five new versions of a children’s breakfast cereal. The evaluation is based on ratings given by children in focus groups. The goal is to determine if there are significant differences in the mean ratings of the five cereal versions.
+
+Tools and Technologies
+Python Programming Language
+NumPy Library: For numerical computations
+DataScience Library: For handling tabular data
+Statsmodels Library: For performing statistical tests
+Matplotlib Library: For creating histograms and other graphical representations
+IPython: For interactive computing and data visualization
+Statistical Methods
+Sales Team Competition Analysis
+Two-Sample T-Test: Used to compare the mean sales of the two teams.
+
+Hypothesis Testing
+P-value Calculation
+Degrees of Freedom Calculation
+Visual Representation: Histograms to visualize the distribution of sales figures.
+
+Breakfast Cereal Focus Groups Analysis
+ANOVA (Analysis of Variance): To compare the mean ratings of the five cereal versions.
+
+Multi-Sample F-Test
+P-value Calculation
+Critical Value Determination at a significance level of 0.05
+ANOVA Table Construction
+Data Visualization: Histograms to display the distribution of ratings and the F-distribution.
+
+Results Interpretation
+Sales Team Competition: Based on the p-value and the t-statistic, conclusions are drawn regarding the performance differences between the two sales teams.
+Breakfast Cereal Focus Groups: The ANOVA test results help in understanding whether the mean ratings of the cereals are significantly different, guiding the manufacturer's decision on which cereal version to pursue.
+Data
+Sales figures for two sales teams and taste ratings for five cereal versions.
+Data is processed and visualized to facilitate analysis.
+Conclusion
+This project exemplifies the application of statistical methods in real-world business scenarios. The analyses provide valuable insights that can guide decision-making processes in organizations.
+
